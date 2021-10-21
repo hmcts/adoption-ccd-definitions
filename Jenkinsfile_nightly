@@ -10,7 +10,7 @@ properties([
 
 @Library("Infrastructure")
 
-String product = "fprl"
+String product = "adoption"
 String component = "ccd-definitions"
 
 def secrets = [
