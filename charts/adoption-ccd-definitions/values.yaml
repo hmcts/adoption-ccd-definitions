@@ -1,11 +1,11 @@
 nodejs:
   applicationPort: 3000
 
-idam-pr:
-  enabled: false
+# idam-pr:
+#   enabled: false
 
-xui-webapp:
-  enabled: false
+# xui-webapp:
+#   enabled: false
 
-tags:
-  ccd-pr: false
+# tags:
+#   ccd-pr: false
