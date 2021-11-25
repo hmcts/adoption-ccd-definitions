@@ -1,9 +1,16 @@
 [
   {
-    "LiveFrom": "01/01/2017",
-    "CaseTypeID": "ADOPTION",
-    "CaseFieldID": "[STATE]",
-    "Label": "State",
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseFieldID": "ApplicantName",
+    "Label": "Applicant name",
     "DisplayOrder": 1
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseFieldID": "RespondentName",
+    "Label": "Respondent Name",
+    "DisplayOrder": 2
   }
 ]

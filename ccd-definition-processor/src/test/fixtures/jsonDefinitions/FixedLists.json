@@ -1,0 +1,16 @@
+[
+  {
+    "LiveFrom": "25/11/2021",
+    "ID": "TimeFrame",
+    "ListElementCode": "Same day",
+    "ListElement": "Same day",
+    "DisplayOrder": 1
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "ID": "TimeFrame",
+    "ListElementCode": 0,
+    "ListElement": "Zero element",
+    "DisplayOrder": 2
+  }
+]

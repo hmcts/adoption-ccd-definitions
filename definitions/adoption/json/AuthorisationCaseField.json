@@ -1,0 +1,72 @@
+[
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseFieldID": "OrdersApplyingFor",
+    "UserRole": "caseworker-courtadmin",
+    "CRUD": "CRU"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseFieldID": "OrdersApplyingFor",
+    "UserRole": "caseworker-solicitor",
+    "CRUD": "CRU"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseFieldID": "OrdersApplyingFor",
+    "UserRole": "caseworker-judge",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseFieldID": "OrdersApplyingFor",
+    "UserRole": "caseworker-la",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseFieldID": "OrdersApplyingFor",
+    "UserRole": "caseworker-superuser",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseFieldID": "ApplicantCaseName",
+    "UserRole": "caseworker-courtadmin",
+    "CRUD": "CRU"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseFieldID": "ApplicantCaseName",
+    "UserRole": "caseworker-solicitor",
+    "CRUD": "CRU"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseFieldID": "ApplicantCaseName",
+    "UserRole": "caseworker-judge",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseFieldID": "ApplicantCaseName",
+    "UserRole": "caseworker-la",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseFieldID": "ApplicantCaseName",
+    "UserRole": "caseworker-superuser",
+    "CRUD": "R"
+  }
+]

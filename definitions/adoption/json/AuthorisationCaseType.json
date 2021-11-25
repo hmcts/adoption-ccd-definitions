@@ -1,14 +1,44 @@
 [
   {
-    "LiveFrom": "01/01/2017",
-    "CaseTypeID": "ADOPTION",
-    "UserRole": "citizen",
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "UserRole": "caseworker-da",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "UserRole": "caseworker-courtadmin",
     "CRUD": "CRU"
   },
   {
-    "LiveFrom": "01/01/2017",
-    "CaseTypeID": "ADOPTION",
-    "UserRole": "caseworker-adoption-clerk",
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "UserRole": "caseworker-solicitor",
+    "CRUD": "CRU"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "UserRole": "caseworker-caseworker",
+    "CRUD": "CRU"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "UserRole": "caseworker-judge",
+    "CRUD": "RU"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "UserRole": "caseworker-la",
+    "CRUD": "RU"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "UserRole": "caseworker-superuser",
     "CRUD": "CRU"
   }
 ]

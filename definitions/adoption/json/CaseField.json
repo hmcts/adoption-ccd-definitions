@@ -1,26 +1,19 @@
 [
   {
-    "LiveFrom": "01/01/2017",
-    "CaseTypeID": "ADOPTION",
-    "ID": "caseHistory",
-    "Label": " ",
-    "FieldType": "CaseHistoryViewer",
-    "SecurityClassification": "Public"
-  },
-  {
-    "LiveFrom": "01/01/2017",
-    "CaseTypeID": "ADOPTION",
-    "ID": "caseIDReference",
-    "Label": "Case ID",
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "ID": "applicantApplyingWith",
+    "Label": "Are you applying on your own, or with someone else?",
     "FieldType": "Text",
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "01/01/2017",
-    "CaseTypeID": "ADOPTION",
-    "ID": "creatorId",
-    "Label": "IDAM ID of the citizen who created the case",
-    "FieldType": "Text",
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "ID": "childMoveInDate",
+    "Label": "When did the child move in with you?",
+    "HintText": "This is the date they started to live continuously with you.",
+    "FieldType": "Date",
     "SecurityClassification": "Public"
   }
 ]

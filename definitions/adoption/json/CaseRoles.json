@@ -1,0 +1,9 @@
+[
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "ID": "[APPLICANTSOLICITOR]",
+    "Name": "Petitioner's Solicitor",
+    "Description": "Role to isolate events available for Applicant's Solicitor"
+  }
+]

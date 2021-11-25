@@ -1,0 +1,9 @@
+[
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "DRAFT",
+    "CaseFieldID": "caseLocalAuthority",
+    "Label": "Local authority",
+    "DisplayOrder": 1
+  }
+]

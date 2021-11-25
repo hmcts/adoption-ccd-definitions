@@ -2,17 +2,17 @@ Feature('Admin Web');
 
 Scenario('add all the roles @pipeline', I => {
   I.loginToAdminConsole();
-  I.createRole('caseworker-privatelaw-solicitor');
-  I.createRole('caseworker-privatelaw-courtadmin');
-  I.createRole('caseworker-privatelaw-judge');
-  I.createRole('caseworker-privatelaw-la');
-  I.createRole('caseworker-privatelaw-superuser');
+  I.createRole('caseworker-solicitor');
+  I.createRole('caseworker-courtadmin');
+  I.createRole('caseworker-judge');
+  I.createRole('caseworker-la');
+  I.createRole('caseworker-superuser');
   I.click('Manage User Roles');
-  I.see('caseworker-privatelaw-solicitor');
-  I.see('caseworker-privatelaw-courtadmin');
-  I.see('caseworker-privatelaw-judge');
-  I.see('caseworker-privatelaw-la');
-  I.see('caseworker-privatelaw-superuser');
+  I.see('caseworker-solicitor');
+  I.see('caseworker-courtadmin');
+  I.see('caseworker-judge');
+  I.see('caseworker-la');
+  I.see('caseworker-superuser');
 }).retry({ retries: 3, minTimeout: 30000 }); // eslint-disable-line no-magic-numbers
 
 Scenario('upload Adoption Config file @pipeline', I => {

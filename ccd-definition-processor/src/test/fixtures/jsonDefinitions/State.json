@@ -1,0 +1,10 @@
+[
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "DRAFT",
+    "ID": "1_Initiation",
+    "Name": "Open",
+    "Description": "Initial case state",
+    "DisplayOrder": 1
+  }
+]

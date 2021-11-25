@@ -1,11 +1,22 @@
 [
   {
-    "LiveFrom": "01/01/2017",
-    "CaseTypeID": "ADOPTION",
-    "TabID": "CaseHistory",
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "Channel": "CaseWorker",
+    "TabID": "History",
     "TabLabel": "History",
     "TabDisplayOrder": 1,
-    "CaseFieldID": "caseHistory",
+    "CaseFieldID": "CaseHistory",
+    "TabFieldDisplayOrder": 1
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "Channel": "CaseWorker",
+    "TabID": "ApplicationDetails",
+    "TabLabel": "Application",
+    "TabDisplayOrder": 2,
+    "CaseFieldID": "ApplicantCaseName",
     "TabFieldDisplayOrder": 1
   }
 ]

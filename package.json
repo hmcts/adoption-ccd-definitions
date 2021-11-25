@@ -15,23 +15,23 @@
       "ccdUrl": "http://localhost:4452"
     },
     "demo": {
-      "cosUrl": "http://adoption-cos-demo.service.core-compute-demo.internal",
+      "cosUrl": "http://adoption-cos-api-demo.service.core-compute-demo.internal",
       "ccdUrl": "http://ccd-data-store-api-demo.service.core-compute-demo.internal"
     },
     "aat": {
-      "cosUrl": "http://adoption-cos-aat.service.core-compute-aat.internal",
+      "cosUrl": "http://adoption-cos-api-aat.service.core-compute-aat.internal",
       "ccdUrl": "http://ccd-data-store-api-aat.service.core-compute-aat.internal"
     },
     "perftest": {
-      "cosUrl": "http://adoption-cos-perftest.service.core-compute-perftest.internal",
+      "cosUrl": "http://adoption-cos-api-perftest.service.core-compute-perftest.internal",
       "ccdUrl": "http://ccd-data-store-api-perftest.service.core-compute-perftest.internal"
     },
     "ithc": {
-      "cosUrl": "http://adoption-cos-ithc.service.core-compute-ithc.internal",
+      "cosUrl": "http://adoption-cos-api-ithc.service.core-compute-ithc.internal",
       "ccdUrl": "http://ccd-data-store-api-ithc.service.core-compute-ithc.internal"
     },
     "prod": {
-      "cosUrl": "http://adoption-cos-prod.service.core-compute-prod.internal",
+      "cosUrl": "http://adoption-cos-api-prod.service.core-compute-prod.internal",
       "ccdUrl": "http://ccd-data-store-api-prod.service.core-compute-prod.internal"
     }
   },
@@ -93,6 +93,7 @@
     "axios": "^0.21.1",
     "eslint-utils": "^1.4.1",
     "ini": "^1.3.6",
-    "minimist": "^1.2.3"
+    "minimist": "^1.2.3",
+    "json-schema": "^0.4.0"
   }
 }

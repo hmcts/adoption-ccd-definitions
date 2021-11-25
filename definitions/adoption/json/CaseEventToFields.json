@@ -1,0 +1,23 @@
+[
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseEventID": "solicitorCreate",
+    "CaseFieldID": "ApplicantCaseName",
+    "DisplayContext": "MANDATORY",
+    "PageID": 1,
+    "PageDisplayOrder": 1,
+    "ShowSummaryChangeOption": "Yes"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseEventID": "selectApplicationType",
+    "CaseFieldID": "OrdersApplyingFor",
+    "DisplayContext": "MANDATORY",
+    "PageID": 1,
+    "PageDisplayOrder": 1,
+    "PageFieldDisplayOrder": 1,
+    "ShowSummaryChangeOption": "Yes"
+  }
+]

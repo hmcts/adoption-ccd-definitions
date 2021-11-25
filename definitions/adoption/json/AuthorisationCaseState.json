@@ -1,16 +1,44 @@
 [
   {
-    "LiveFrom": "01/01/2017",
-    "CaseTypeID": "ADOPTION",
-    "CaseStateID": "Open",
-    "UserRole": "citizen",
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseStateID": "AWAITING_SUBMISSION_TO_HMCTS",
+    "UserRole": "caseworker-courtadmin",
     "CRUD": "CRU"
   },
   {
-    "LiveFrom": "01/01/2017",
-    "CaseTypeID": "ADOPTION",
-    "CaseStateID": "Open",
-    "UserRole": "caseworker-adoption-clerk",
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseStateID": "AWAITING_SUBMISSION_TO_HMCTS",
+    "UserRole": "caseworker-caseworker",
     "CRUD": "CRU"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseStateID": "AWAITING_SUBMISSION_TO_HMCTS",
+    "UserRole": "caseworker-solicitor",
+    "CRUD": "CRU"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseStateID": "AWAITING_SUBMISSION_TO_HMCTS",
+    "UserRole": "caseworker-judge",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseStateID": "AWAITING_SUBMISSION_TO_HMCTS",
+    "UserRole": "caseworker-la",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseStateID": "AWAITING_SUBMISSION_TO_HMCTS",
+    "UserRole": "caseworker-superuser",
+    "CRUD": "R"
   }
 ]

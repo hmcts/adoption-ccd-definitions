@@ -1,0 +1,31 @@
+[
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "DRAFT",
+    "CaseEventID": "initiateCase",
+    "UserRole": "caseworker",
+    "CRUD": "CRU"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "DRAFT",
+    "CaseEventID": "initiateCase2",
+    "UserRoles": ["caseworker1", "caseworker2"],
+    "CRUD": "CRU"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "DRAFT",
+    "CaseEventID": "initiateCase3",
+    "AccessControl": [
+      {
+        "UserRoles": ["caseworker1", "caseworker2"],
+        "CRUD": "C"
+      },
+      {
+        "UserRoles": ["caseworker3"],
+        "CRUD": "D"
+      }
+    ]
+  }
+]

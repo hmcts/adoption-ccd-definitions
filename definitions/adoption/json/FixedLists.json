@@ -1,0 +1,23 @@
+[
+  {
+    "LiveFrom": "25/11/2021",
+    "ID": "OrderTypeEnum",
+    "ListElementCode": "adoptionOrder1",
+    "ListElement": "Adoption Order 1",
+    "DisplayOrder": 1
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "ID": "OrderTypeEnum",
+    "ListElementCode": "adoptionOrder2",
+    "ListElement": "Adoption Order 2",
+    "DisplayOrder": 2
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "ID": "OrderTypeEnum",
+    "ListElementCode": "adoptionOrder3",
+    "ListElement": "Adoption Order 3",
+    "DisplayOrder": 3
+  }
+]

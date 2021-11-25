@@ -1,16 +1,86 @@
 [
   {
-    "LiveFrom": "01/01/2017",
-    "CaseTypeID": "ADOPTION",
-    "CaseEventID": "openCase",
-    "UserRole": "citizen",
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseEventID": "solicitorCreate",
+    "UserRole": "caseworker-courtadmin",
     "CRUD": "CRU"
   },
   {
-    "LiveFrom": "01/01/2017",
-    "CaseTypeID": "ADOPTION",
-    "CaseEventID": "openCase",
-    "UserRole": "caseworker-adoption-clerk",
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseEventID": "solicitorCreate",
+    "UserRole": "caseworker-solicitor",
+    "CRUD": "CRU"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseEventID": "solicitorCreate",
+    "UserRole": "caseworker-judge",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseEventID": "solicitorCreate",
+    "UserRole": "caseworker-la",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseEventID": "solicitorCreate",
+    "UserRole": "caseworker-superuser",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseEventID": "selectApplicationType",
+    "UserRole": "caseworker-courtadmin",
+    "CRUD": "CRU"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseEventID": "selectApplicationType",
+    "UserRole": "caseworker-caseworker",
+    "CRUD": "CRU"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseEventID": "selectApplicationType",
+    "UserRole": "caseworker-solicitor",
+    "CRUD": "CRU"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseEventID": "selectApplicationType",
+    "UserRole": "caseworker-judge",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseEventID": "selectApplicationType",
+    "UserRole": "caseworker-la",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseEventID": "selectApplicationType",
+    "UserRole": "caseworker-superuser",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "25/11/2021",
+    "CaseTypeID": "A58",
+    "CaseEventID": "selectApplicationType",
+    "UserRole": "caseworker-caseworker",
     "CRUD": "R"
   }
 ]
