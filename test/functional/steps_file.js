@@ -9,21 +9,6 @@ module.exports = () => {
     loginToAdminConsole() {
       this.amOnPage(`${process.env.CCD_ADMIN_URL}`);
       this.see('Sign in');
-      this.fillField('username', 'ccd-importer@server.net');
-      this.fillField('password', 'Password12');
-      this.click('Sign in');
-      this.see('Welcome to CCD Admin Web');
-    },
-    createRole(role) {
-      this.click('Manage User Roles');
-      this.click('Create User Role');
-      this.fillField('role', role);
-      this.click('Create');
-    },
-    uploadConfig(path) {
-      this.click('Import Case Definition');
-      this.attachFile('file', path);
-      this.click('Submit');
     }
   });
 };

@@ -6,13 +6,13 @@ const { ccdData } = require('../utils/dataProvider');
 
 const assertFieldExists = createAssertExists('Field');
 
-describe('AuthorisationCaseFieldCitizen', () => {
+describe('AuthorisationCaseField', () => {
   describe('should :', () => {
     let nonProdAuthorisationCaseField = [];
     let allFieldsForNonProd = [];
 
     before(() => {
-      nonProdAuthorisationCaseField = ccdData.AuthorisationCaseFieldCitizen;
+      nonProdAuthorisationCaseField = ccdData.AuthorisationCaseField;
       allFieldsForNonProd = ccdData.CaseField;
     });
 
