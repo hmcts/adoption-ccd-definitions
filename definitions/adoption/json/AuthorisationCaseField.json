@@ -2,70 +2,70 @@
   {
     "LiveFrom": "25/11/2021",
     "CaseTypeID": "A58",
-    "CaseFieldID": "OrdersApplyingFor",
+    "CaseFieldID": "applicantApplyingWith",
     "UserRole": "caseworker-courtadmin",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "25/11/2021",
     "CaseTypeID": "A58",
-    "CaseFieldID": "OrdersApplyingFor",
+    "CaseFieldID": "applicantApplyingWith",
     "UserRole": "caseworker-solicitor",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "25/11/2021",
     "CaseTypeID": "A58",
-    "CaseFieldID": "OrdersApplyingFor",
+    "CaseFieldID": "applicantApplyingWith",
     "UserRole": "caseworker-judge",
     "CRUD": "R"
   },
   {
     "LiveFrom": "25/11/2021",
     "CaseTypeID": "A58",
-    "CaseFieldID": "OrdersApplyingFor",
+    "CaseFieldID": "applicantApplyingWith",
     "UserRole": "caseworker-la",
     "CRUD": "R"
   },
   {
     "LiveFrom": "25/11/2021",
     "CaseTypeID": "A58",
-    "CaseFieldID": "OrdersApplyingFor",
+    "CaseFieldID": "applicantApplyingWith",
     "UserRole": "caseworker-superuser",
     "CRUD": "R"
   },
   {
     "LiveFrom": "25/11/2021",
     "CaseTypeID": "A58",
-    "CaseFieldID": "ApplicantCaseName",
+    "CaseFieldID": "childMoveInDate",
     "UserRole": "caseworker-courtadmin",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "25/11/2021",
     "CaseTypeID": "A58",
-    "CaseFieldID": "ApplicantCaseName",
+    "CaseFieldID": "childMoveInDate",
     "UserRole": "caseworker-solicitor",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "25/11/2021",
     "CaseTypeID": "A58",
-    "CaseFieldID": "ApplicantCaseName",
+    "CaseFieldID": "childMoveInDate",
     "UserRole": "caseworker-judge",
     "CRUD": "R"
   },
   {
     "LiveFrom": "25/11/2021",
     "CaseTypeID": "A58",
-    "CaseFieldID": "ApplicantCaseName",
+    "CaseFieldID": "childMoveInDate",
     "UserRole": "caseworker-la",
     "CRUD": "R"
   },
   {
     "LiveFrom": "25/11/2021",
     "CaseTypeID": "A58",
-    "CaseFieldID": "ApplicantCaseName",
+    "CaseFieldID": "childMoveInDate",
     "UserRole": "caseworker-superuser",
     "CRUD": "R"
   }

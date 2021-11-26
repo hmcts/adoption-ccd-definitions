@@ -1,9 +1,6 @@
-const defaultPassword = 'Nagoya0102';
-
 module.exports = {
   legalProfessionalUserOne: {
-    email: 'fprl_caseworker_solicitor@mailinator.com',
-    password: defaultPassword
+    email: 'adoption_caseworker_solicitor@mailinator.com',
   },
 
   baseUrl: process.env.URL || 'https://manage-case.aat.platform.hmcts.net/cases'

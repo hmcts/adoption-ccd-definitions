@@ -13,8 +13,7 @@ exports.config = {
         ignoreHTTPSErrors: true,
         args: ['--no-sandbox']
       }
-    },
-    GeneralHelper: { require: './helpers/generalHelper.js' }
+    }
   },
   include: { I: './steps_file.js' },
   bootstrap: null,
