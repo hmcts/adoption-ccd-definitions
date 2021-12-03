@@ -103,5 +103,9 @@ dist
 # TernJS port file
 .tern-port
 
-#.idea file
+# IDE files
 .idea
+.vscode
+
+# Excel files
+definitions/adoption/xlsx/*.xlsx
